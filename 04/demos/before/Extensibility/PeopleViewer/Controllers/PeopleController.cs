@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 using PersonReader.Factory;
 using PersonReader.Interface;
 using System.Collections.Generic;
@@ -8,6 +9,20 @@ namespace PeopleViewer.Controllers
     public class PeopleController : Controller
     {
         private ReaderFactory readerFactory = new ReaderFactory();
+
+        IConfiguration Configuration;
+
+        public PeopleController(IConfiguration configuration)
+        {
+            Configuration = configuration;
+        }
+
+        public IActionResult UseConfiguredReader()
+        {
+            string readerType = Configuration["PersonReaderType"];
+            ViewData["Title"] = "Using Configured Reader";
+            return PopulatePeopleView(readerType);
+        }
 
         public IActionResult UseService()
         {

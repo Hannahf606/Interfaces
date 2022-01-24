@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a765e7f9-a6c2-44ed-a52c-63ce1e53daba": {
+      "ProjectGuid": "a765e7f9-a6c2-44ed-a52c-63ce1e53daba",
+      "DisplayName": "PersonReader.Interface",
+      "ColorIndex": 0
+    },
+    "bb3996c1-08ea-4a73-8bfe-574efe24ed5e": {
+      "ProjectGuid": "bb3996c1-08ea-4a73-8bfe-574efe24ed5e",
+      "DisplayName": "PersonReader.Service",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

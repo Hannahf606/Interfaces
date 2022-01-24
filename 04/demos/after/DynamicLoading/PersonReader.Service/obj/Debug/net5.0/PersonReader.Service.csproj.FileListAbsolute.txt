@@ -1,0 +1,12 @@
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.Service\bin\Debug\net5.0\PersonReader.Service.deps.json
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.Service\bin\Debug\net5.0\PersonReader.Service.dll
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.Service\bin\Debug\net5.0\ref\PersonReader.Service.dll
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.Service\bin\Debug\net5.0\PersonReader.Service.pdb
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.csproj.AssemblyReference.cache
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.AssemblyInfoInputs.cache
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.AssemblyInfo.cs
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.csproj.CoreCompileInputs.cache
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.dll
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.Service\obj\Debug\net5.0\ref\PersonReader.Service.dll
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.pdb

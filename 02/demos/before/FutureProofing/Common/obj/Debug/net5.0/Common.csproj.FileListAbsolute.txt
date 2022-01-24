@@ -1,0 +1,12 @@
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\Common\bin\Debug\net5.0\Common.deps.json
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\Common\bin\Debug\net5.0\Common.dll
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\Common\bin\Debug\net5.0\ref\Common.dll
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\Common\bin\Debug\net5.0\Common.pdb
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\Common\obj\Debug\net5.0\Common.dll
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\Common\obj\Debug\net5.0\ref\Common.dll
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\Common\obj\Debug\net5.0\Common.pdb
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\Common\obj\Debug\net5.0\Common.csproj.AssemblyReference.cache

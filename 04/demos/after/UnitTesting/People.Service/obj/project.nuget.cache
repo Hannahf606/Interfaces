@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wF8jULG1gCWmJcqkKtl62cQG0vEeSgm1fxElt4li/s/7gXbrlE5cUn/bwhWRY5DUJd2/KkBNMdxKYB+ZIpQk3g==",
+  "success": true,
+  "projectFilePath": "C:\\pluralsight\\Projects\\interface\\04\\demos\\after\\UnitTesting\\People.Service\\People.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hannah\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Hannah\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Hannah\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Hannah\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Hannah\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Hannah\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

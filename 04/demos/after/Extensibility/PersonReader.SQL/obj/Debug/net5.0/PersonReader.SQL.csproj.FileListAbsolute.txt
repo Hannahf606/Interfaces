@@ -1,0 +1,15 @@
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.SQL\bin\Debug\net5.0\PersonReader.SQL.deps.json
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.SQL\bin\Debug\net5.0\PersonReader.SQL.dll
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.SQL\bin\Debug\net5.0\ref\PersonReader.SQL.dll
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.SQL\bin\Debug\net5.0\PersonReader.SQL.pdb
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.SQL\bin\Debug\net5.0\PersonReader.Interface.dll
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.SQL\bin\Debug\net5.0\PersonReader.Interface.pdb
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.csproj.AssemblyReference.cache
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.AssemblyInfoInputs.cache
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.AssemblyInfo.cs
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.csproj.CoreCompileInputs.cache
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.csproj.CopyComplete
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.dll
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.SQL\obj\Debug\net5.0\ref\PersonReader.SQL.dll
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.pdb

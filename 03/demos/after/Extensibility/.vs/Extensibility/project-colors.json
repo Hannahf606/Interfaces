@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a765e7f9-a6c2-44ed-a52c-63ce1e53daba": {
+      "ProjectGuid": "a765e7f9-a6c2-44ed-a52c-63ce1e53daba",
+      "DisplayName": "PersonReader.Interface",
+      "ColorIndex": 0
+    },
+    "e432dcf5-30a2-4455-aa3d-703935a77cab": {
+      "ProjectGuid": "e432dcf5-30a2-4455-aa3d-703935a77cab",
+      "DisplayName": "PersonReader.Service",
+      "ColorIndex": 1
+    },
+    "92454235-3abd-4d1f-8b85-b212a2d96af1": {
+      "ProjectGuid": "92454235-3abd-4d1f-8b85-b212a2d96af1",
+      "DisplayName": "PeopleViewer",
+      "ColorIndex": 2
+    },
+    "3d4ecc0a-4817-475f-bfba-97bb395e7eca": {
+      "ProjectGuid": "3d4ecc0a-4817-475f-bfba-97bb395e7eca",
+      "DisplayName": "PersonReader.CSV",
+      "ColorIndex": 3
+    },
+    "c722e753-22ae-438e-885b-a8f5cdac8586": {
+      "ProjectGuid": "c722e753-22ae-438e-885b-a8f5cdac8586",
+      "DisplayName": "PersonReader.SQL",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

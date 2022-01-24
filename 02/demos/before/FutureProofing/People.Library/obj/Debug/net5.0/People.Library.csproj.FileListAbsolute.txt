@@ -1,0 +1,15 @@
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\People.Library\bin\Debug\net5.0\People.Library.deps.json
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\People.Library\bin\Debug\net5.0\People.Library.dll
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\People.Library\bin\Debug\net5.0\ref\People.Library.dll
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\People.Library\bin\Debug\net5.0\People.Library.pdb
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\People.Library\bin\Debug\net5.0\Common.dll
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\People.Library\bin\Debug\net5.0\Common.pdb
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\People.Library\obj\Debug\net5.0\People.Library.csproj.AssemblyReference.cache
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\People.Library\obj\Debug\net5.0\People.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\People.Library\obj\Debug\net5.0\People.Library.AssemblyInfoInputs.cache
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\People.Library\obj\Debug\net5.0\People.Library.AssemblyInfo.cs
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\People.Library\obj\Debug\net5.0\People.Library.csproj.CoreCompileInputs.cache
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\People.Library\obj\Debug\net5.0\People.Library.csproj.CopyComplete
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\People.Library\obj\Debug\net5.0\People.Library.dll
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\People.Library\obj\Debug\net5.0\ref\People.Library.dll
+C:\pluralsight\Projects\interface\02\demos\before\FutureProofing\People.Library\obj\Debug\net5.0\People.Library.pdb

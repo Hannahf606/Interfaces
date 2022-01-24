@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be9cebf0-bf29-4d8a-9d06-f6cf2b47f18f": {
+      "ProjectGuid": "be9cebf0-bf29-4d8a-9d06-f6cf2b47f18f",
+      "DisplayName": "PeopleViewer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

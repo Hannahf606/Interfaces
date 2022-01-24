@@ -1,0 +1,12 @@
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.CSV\bin\Debug\net5.0\PersonReader.CSV.deps.json
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.CSV\bin\Debug\net5.0\PersonReader.CSV.dll
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.CSV\bin\Debug\net5.0\ref\PersonReader.CSV.dll
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.CSV\bin\Debug\net5.0\PersonReader.CSV.pdb
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.csproj.AssemblyReference.cache
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.AssemblyInfoInputs.cache
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.AssemblyInfo.cs
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.csproj.CoreCompileInputs.cache
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.dll
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.CSV\obj\Debug\net5.0\ref\PersonReader.CSV.dll
+C:\pluralsight\Projects\interface\04\demos\after\DynamicLoading\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.pdb

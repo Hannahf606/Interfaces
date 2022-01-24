@@ -1,0 +1,11 @@
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.Interface\bin\Debug\net5.0\PersonReader.Interface.deps.json
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.Interface\bin\Debug\net5.0\PersonReader.Interface.dll
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.Interface\bin\Debug\net5.0\ref\PersonReader.Interface.dll
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.Interface\bin\Debug\net5.0\PersonReader.Interface.pdb
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.AssemblyInfoInputs.cache
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.AssemblyInfo.cs
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.csproj.CoreCompileInputs.cache
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.dll
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.Interface\obj\Debug\net5.0\ref\PersonReader.Interface.dll
+C:\pluralsight\Projects\interface\04\demos\after\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.pdb

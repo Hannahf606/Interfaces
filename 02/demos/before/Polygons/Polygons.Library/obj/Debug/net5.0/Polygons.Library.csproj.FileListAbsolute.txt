@@ -1,0 +1,12 @@
+C:\pluralsight\Projects\interface\02\demos\before\Polygons\Polygons.Library\bin\Debug\net5.0\Polygons.Library.deps.json
+C:\pluralsight\Projects\interface\02\demos\before\Polygons\Polygons.Library\bin\Debug\net5.0\Polygons.Library.dll
+C:\pluralsight\Projects\interface\02\demos\before\Polygons\Polygons.Library\bin\Debug\net5.0\ref\Polygons.Library.dll
+C:\pluralsight\Projects\interface\02\demos\before\Polygons\Polygons.Library\bin\Debug\net5.0\Polygons.Library.pdb
+C:\pluralsight\Projects\interface\02\demos\before\Polygons\Polygons.Library\obj\Debug\net5.0\Polygons.Library.csproj.AssemblyReference.cache
+C:\pluralsight\Projects\interface\02\demos\before\Polygons\Polygons.Library\obj\Debug\net5.0\Polygons.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\pluralsight\Projects\interface\02\demos\before\Polygons\Polygons.Library\obj\Debug\net5.0\Polygons.Library.AssemblyInfoInputs.cache
+C:\pluralsight\Projects\interface\02\demos\before\Polygons\Polygons.Library\obj\Debug\net5.0\Polygons.Library.AssemblyInfo.cs
+C:\pluralsight\Projects\interface\02\demos\before\Polygons\Polygons.Library\obj\Debug\net5.0\Polygons.Library.csproj.CoreCompileInputs.cache
+C:\pluralsight\Projects\interface\02\demos\before\Polygons\Polygons.Library\obj\Debug\net5.0\Polygons.Library.dll
+C:\pluralsight\Projects\interface\02\demos\before\Polygons\Polygons.Library\obj\Debug\net5.0\ref\Polygons.Library.dll
+C:\pluralsight\Projects\interface\02\demos\before\Polygons\Polygons.Library\obj\Debug\net5.0\Polygons.Library.pdb
